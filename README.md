@@ -82,10 +82,30 @@
 - **GitHub Repository**: [Monica](https://github.com/yeshvinash/Monica.git)
 - **Project Live Link**: [Monica](https://staging.whiteorangesoftware.com/monica/)
 
-## 12. Open-Hiring
+## 13. Open-Hiring
 - **Description**: Open-Hiring is an inclusive platform that provides job opportunities without the traditional interview process. It aims to open doors for people who want to work but are often left out. The platform consists of two main components:
     1. Website
     2. Dashboard
 - **Technologies**: HTML, CSS, Javascript(ES6+).
 - **GitHub Repository**: [Open-Hiring](https://github.com/yeshvinash/Open-hiring.git)
 - **Project Live Link**: [Open-Hiring](https://staging.whiteorangesoftware.com/open-hiring/)
+
+## 14. Weather App
+- **Description**: The Weather App is a user-friendly application designed to provide real-time weather information based on your current location or any city of your choice. It utilizes the OpenWeatherMap API to fetch accurate and up-to-date weather data, presenting it in an intuitive and visually appealing interface.
+- **Technologies**: ReactJS, JavaScript(ES6+), API Integration, [OpenWeatherMap](https://openweathermap.org/api).
+- **GitHub Repository**: [Weather App GitHub](https://github.com/yeshvinash/weather-app.git)
+- **Project Live Link**: [Weather App](https://weath-webapp.netlify.app/)
+
+## 15. Currency Converter
+- **Description**: A simple and efficient currency converter application that allows users to convert currencies in real-time using live exchange rates. 
+- **Technologies**: ReactJS, JavaScript(ES6+), Context API.
+- **GitHub Repository**: [Currency Converter GitHub](https://github.com/yeshvinash/currency-converter.git)
+- **Project Live Link**: [Currency Converter](https://currncy-convert.netlify.app/)
+
+## 15. Todo App
+- **Description**: A modern and efficient Todo application to help users manage tasks effortlessly. This app leverages ReactJS, JavaScript (ES6+), and Redux Toolkit for state management to deliver a seamless and responsive user experience.
+- **Technologies**: ReactJS, JavaScript(ES6+), Redux State Management Tool.
+- **GitHub Repository**: [Todo App GitHub](https://github.com/yeshvinash/TodoApp.git)
+- **Project Live Link**: [Todo App](https://todo-softapp.netlify.app/)
+
+  
